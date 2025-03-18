@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SugaliRishika/MySolutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Array
+|  |
+| ------- |
+| [2478-longest-nice-subarray](https://github.com/SugaliRishika/MySolutions/tree/master/2478-longest-nice-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2478-longest-nice-subarray](https://github.com/SugaliRishika/MySolutions/tree/master/2478-longest-nice-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [2478-longest-nice-subarray](https://github.com/SugaliRishika/MySolutions/tree/master/2478-longest-nice-subarray) |
 <!---LeetCode Topics End-->
