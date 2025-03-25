@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SugaliRishika/MySolutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SugaliRishika/MySolutions/tree/master/0136-single-number) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SugaliRishika/MySolutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2478-longest-nice-subarray](https://github.com/SugaliRishika/MySolutions/tree/master/2478-longest-nice-subarray) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SugaliRishika/MySolutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SugaliRishika/MySolutions/tree/master/0136-single-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/SugaliRishika/MySolutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2478-longest-nice-subarray](https://github.com/SugaliRishika/MySolutions/tree/master/2478-longest-nice-subarray) |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3430-count-days-without-meetings](https://github.com/SugaliRishika/MySolutions/tree/master/3430-count-days-without-meetings) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/SugaliRishika/MySolutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
