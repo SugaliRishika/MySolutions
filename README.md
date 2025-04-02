@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/SugaliRishika/MySolutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SugaliRishika/MySolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SugaliRishika/MySolutions/tree/master/0136-single-number) |
+| [0455-assign-cookies](https://github.com/SugaliRishika/MySolutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/SugaliRishika/MySolutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SugaliRishika/MySolutions/tree/master/0503-next-greater-element-ii) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SugaliRishika/MySolutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/SugaliRishika/MySolutions/tree/master/0455-assign-cookies) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SugaliRishika/MySolutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/SugaliRishika/MySolutions/tree/master/3430-count-days-without-meetings) |
 ## Backtracking
@@ -117,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SugaliRishika/MySolutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SugaliRishika/MySolutions/tree/master/0503-next-greater-element-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/SugaliRishika/MySolutions/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/SugaliRishika/MySolutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
