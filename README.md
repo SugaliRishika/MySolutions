@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SugaliRishika/MySolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/SugaliRishika/MySolutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/SugaliRishika/MySolutions/tree/master/0136-single-number) |
+| [0435-non-overlapping-intervals](https://github.com/SugaliRishika/MySolutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SugaliRishika/MySolutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/SugaliRishika/MySolutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SugaliRishika/MySolutions/tree/master/0503-next-greater-element-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SugaliRishika/MySolutions/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/SugaliRishika/MySolutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SugaliRishika/MySolutions/tree/master/0455-assign-cookies) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SugaliRishika/MySolutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/SugaliRishika/MySolutions/tree/master/3430-count-days-without-meetings) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/SugaliRishika/MySolutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SugaliRishika/MySolutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SugaliRishika/MySolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/SugaliRishika/MySolutions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/SugaliRishika/MySolutions/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SugaliRishika/MySolutions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/SugaliRishika/MySolutions/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/SugaliRishika/MySolutions/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/SugaliRishika/MySolutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/SugaliRishika/MySolutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/SugaliRishika/MySolutions/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/SugaliRishika/MySolutions/tree/master/0890-lemonade-change) |
