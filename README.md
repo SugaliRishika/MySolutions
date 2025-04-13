@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SugaliRishika/MySolutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/SugaliRishika/MySolutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/SugaliRishika/MySolutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SugaliRishika/MySolutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SugaliRishika/MySolutions/tree/master/0056-merge-intervals) |
@@ -143,10 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SugaliRishika/MySolutions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/SugaliRishika/MySolutions/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SugaliRishika/MySolutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/SugaliRishika/MySolutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SugaliRishika/MySolutions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/SugaliRishika/MySolutions/tree/master/0135-candy) |
