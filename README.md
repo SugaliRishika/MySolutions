@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SugaliRishika/MySolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/SugaliRishika/MySolutions/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/SugaliRishika/MySolutions/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/SugaliRishika/MySolutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/SugaliRishika/MySolutions/tree/master/0049-group-anagrams) |
 | [0402-remove-k-digits](https://github.com/SugaliRishika/MySolutions/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/SugaliRishika/MySolutions/tree/master/0678-valid-parenthesis-string) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SugaliRishika/MySolutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/SugaliRishika/MySolutions/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/SugaliRishika/MySolutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/SugaliRishika/MySolutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/SugaliRishika/MySolutions/tree/master/0069-sqrtx) |
 ## Recursion
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/SugaliRishika/MySolutions/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/SugaliRishika/MySolutions/tree/master/0735-asteroid-collision) |
 ## Breadth-First Search
 |  |
