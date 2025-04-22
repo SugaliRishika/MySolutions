@@ -18,15 +18,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SugaliRishika/MySolutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/SugaliRishika/MySolutions/tree/master/0098-validate-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SugaliRishika/MySolutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/SugaliRishika/MySolutions/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/SugaliRishika/MySolutions/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SugaliRishika/MySolutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/SugaliRishika/MySolutions/tree/master/0098-validate-binary-search-tree) |
 ## Array
 |  |
 | ------- |
@@ -203,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SugaliRishika/MySolutions/tree/master/0200-number-of-islands) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/SugaliRishika/MySolutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
