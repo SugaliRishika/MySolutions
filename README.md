@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SugaliRishika/MySolutions/tree/master/0002-add-two-numbers) |
+| [0086-partition-list](https://github.com/SugaliRishika/MySolutions/tree/master/0086-partition-list) |
 ## Math
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SugaliRishika/MySolutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/SugaliRishika/MySolutions/tree/master/0016-3sum-closest) |
+| [0086-partition-list](https://github.com/SugaliRishika/MySolutions/tree/master/0086-partition-list) |
 | [0455-assign-cookies](https://github.com/SugaliRishika/MySolutions/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
