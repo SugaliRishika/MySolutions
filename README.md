@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SugaliRishika/MySolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/SugaliRishika/MySolutions/tree/master/0098-validate-binary-search-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SugaliRishika/MySolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SugaliRishika/MySolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/SugaliRishika/MySolutions/tree/master/0098-validate-binary-search-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SugaliRishika/MySolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Array
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/SugaliRishika/MySolutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/SugaliRishika/MySolutions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/SugaliRishika/MySolutions/tree/master/0078-subsets) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SugaliRishika/MySolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SugaliRishika/MySolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/SugaliRishika/MySolutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/SugaliRishika/MySolutions/tree/master/0136-single-number) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SugaliRishika/MySolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/SugaliRishika/MySolutions/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SugaliRishika/MySolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/SugaliRishika/MySolutions/tree/master/0496-next-greater-element-i) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SugaliRishika/MySolutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SugaliRishika/MySolutions/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SugaliRishika/MySolutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SugaliRishika/MySolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Simulation
 |  |
 | ------- |
