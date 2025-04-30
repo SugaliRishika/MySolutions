@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/SugaliRishika/MySolutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/SugaliRishika/MySolutions/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/SugaliRishika/MySolutions/tree/master/0890-lemonade-change) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/SugaliRishika/MySolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SugaliRishika/MySolutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SugaliRishika/MySolutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/SugaliRishika/MySolutions/tree/master/2478-longest-nice-subarray) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/SugaliRishika/MySolutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/SugaliRishika/MySolutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/SugaliRishika/MySolutions/tree/master/0069-sqrtx) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/SugaliRishika/MySolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Recursion
 |  |
 | ------- |
