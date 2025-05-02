@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SugaliRishika/MySolutions/tree/master/0049-group-anagrams) |
 | [0402-remove-k-digits](https://github.com/SugaliRishika/MySolutions/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/SugaliRishika/MySolutions/tree/master/0678-valid-parenthesis-string) |
+| [0868-push-dominoes](https://github.com/SugaliRishika/MySolutions/tree/master/0868-push-dominoes) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SugaliRishika/MySolutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Graph
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SugaliRishika/MySolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/SugaliRishika/MySolutions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/SugaliRishika/MySolutions/tree/master/0678-valid-parenthesis-string) |
+| [0868-push-dominoes](https://github.com/SugaliRishika/MySolutions/tree/master/0868-push-dominoes) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/SugaliRishika/MySolutions/tree/master/0016-3sum-closest) |
 | [0086-partition-list](https://github.com/SugaliRishika/MySolutions/tree/master/0086-partition-list) |
 | [0455-assign-cookies](https://github.com/SugaliRishika/MySolutions/tree/master/0455-assign-cookies) |
+| [0868-push-dominoes](https://github.com/SugaliRishika/MySolutions/tree/master/0868-push-dominoes) |
 ## Greedy
 |  |
 | ------- |
