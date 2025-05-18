@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SugaliRishika/MySolutions/tree/master/0002-add-two-numbers) |
 | [0086-partition-list](https://github.com/SugaliRishika/MySolutions/tree/master/0086-partition-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/SugaliRishika/MySolutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
 | ------- |
