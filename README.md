@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/SugaliRishika/MySolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/SugaliRishika/MySolutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/SugaliRishika/MySolutions/tree/master/0016-3sum-closest) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SugaliRishika/MySolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/SugaliRishika/MySolutions/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/SugaliRishika/MySolutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/SugaliRishika/MySolutions/tree/master/0049-group-anagrams) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SugaliRishika/MySolutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/SugaliRishika/MySolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/SugaliRishika/MySolutions/tree/master/0069-sqrtx) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SugaliRishika/MySolutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SugaliRishika/MySolutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
