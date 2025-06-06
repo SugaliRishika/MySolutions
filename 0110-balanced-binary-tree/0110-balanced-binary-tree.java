@@ -15,25 +15,15 @@
  */
 class Solution {
     public boolean isBalanced(TreeNode root) {
-        // If the tree is empty, we can say it’s balanced...
-        if (root == null)  return true;
-        // Height Function will return -1, when it’s an unbalanced tree...
-		if (Height(root) == -1)  return false;
-		return true;
+        return height(root)!=-1;
 	}
-    // Create a function to return the “height” of a current subtree using recursion...
-	public int Height(TreeNode root) {
-        // Base case...
-		if (root == null)  return 0;
-        // Height of left subtree...
-		int leftHeight = Height(root.left);
-        // Height of height subtree...
-		int rightHight = Height(root.right);
-        // In case of left subtree or right subtree unbalanced, return -1...
-		if (leftHeight == -1 || rightHight == -1)  return -1;
-        // If their heights differ by more than ‘1’, return -1...
-        if (Math.abs(leftHeight - rightHight) > 1)  return -1;
-        // Otherwise, return the height of this subtree as max(leftHeight, rightHight) + 1...
-		return Math.max(leftHeight, rightHight) + 1;
+	public int height(TreeNode root){
+        if(root==null) return 0;
+        int left=height(root.left);
+        if(left==-1) return -1;
+        int right=height(root.right);
+        if(right==-1) return -1;
+        if(Math.abs(left-right)>1) return -1;
+        return Math.max(left,right)+1;
     }
 }
