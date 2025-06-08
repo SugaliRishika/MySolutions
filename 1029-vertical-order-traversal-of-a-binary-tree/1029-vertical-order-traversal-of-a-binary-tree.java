@@ -14,58 +14,54 @@
  * }
  */
 class Solution {
-    class Pair {
-        int[] first;
-        TreeNode second;
-
-        Pair(int[] first, TreeNode second) {
-            this.first = first;
-            this.second = second;
-        }
-    }
-
     public List<List<Integer>> verticalTraversal(TreeNode root) {
-        List<List<Integer>> ans = new ArrayList<>();
-        if (root == null)
-            return ans;
+        List<int[]> nodes = new ArrayList<>();
+        Queue<Tuple> queue = new LinkedList<>();
+        queue.offer(new Tuple(root, 0, 0));
 
-        Queue<Pair> q = new ArrayDeque<>();  //
-        q.offer(new Pair(new int[] {0, 0}, root));
-
-        Map<Integer, List<int[]>> map = new TreeMap<>();
-
-        while (!q.isEmpty()) {
-            int n = q.size();
-            int dis = q.peek().first[0];
-            int level = q.peek().first[1];
-            TreeNode node = q.peek().second;
-            q.poll();
-
-            map.computeIfAbsent(dis, k -> new ArrayList<>()).add(new int[] {level, node.val});
+        while (!queue.isEmpty()) {
+            Tuple t = queue.poll();
+            TreeNode node = t.node;
+            int row = t.row, col = t.col;
+            nodes.add(new int[]{col, row, node.val});
 
             if (node.left != null)
-                q.offer(new Pair(new int[] {dis - 1, level + 1}, node.left));
+                queue.offer(new Tuple(node.left, row + 1, col - 1));
             if (node.right != null)
-                q.offer(new Pair(new int[] {dis + 1, level + 1}, node.right));
+                queue.offer(new Tuple(node.right, row + 1, col + 1));
         }
 
-        for (Map.Entry<Integer, List<int[]>> em : map.entrySet()) {
+        Collections.sort(nodes, (a, b) -> {
+            if (a[0] != b[0]) return a[0] - b[0];    
+            if (a[1] != b[1]) return a[1] - b[1];     
+            return a[2] - b[2];                      
+        });
 
-            List<int[]> dummy = em.getValue();
-            List<Integer> temp = new ArrayList<>();
+        List<List<Integer>> result = new ArrayList<>();
+        int prevCol = Integer.MIN_VALUE;
+        List<Integer> colList = new ArrayList<>();
 
-            Collections.sort(dummy, (a, b) -> {
-                if (a[0] == b[0])
-                    return a[1] - b[1];
-                return a[0] - b[0];
-            });
-
-            for (int[] ele : dummy)
-                temp.add(ele[1]);
-
-            ans.add(temp);
+        for (int[] triplet : nodes) {
+            int col = triplet[0], val = triplet[2];
+            if (col != prevCol) {
+                if (!colList.isEmpty()) result.add(colList);
+                colList = new ArrayList<>();
+                prevCol = col;
+            }
+            colList.add(val);
         }
-
-        return ans;
+        result.add(colList); 
+        return result;
     }
+
+    class Tuple {
+        TreeNode node;
+        int row, col;
+        Tuple(TreeNode n, int r, int c) {
+            node = n;
+            row = r;
+            col = c;
+        }
+    }
+    
 }
