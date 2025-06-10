@@ -15,33 +15,28 @@
  */
 class Solution {
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        Deque<Integer> preorderQueue = new ArrayDeque<>();
-        for (int val : preorder) {
-            preorderQueue.offer(val);
+        Map<Integer,Integer> mpp=new HashMap<Integer,Integer>();
+
+        for(int i=0;i<inorder.length;i++){
+            mpp.put(inorder[i],i);
         }
 
-        return build(preorderQueue, inorder);        
+        TreeNode root= buildingTree(preorder,0,preorder.length-1,inorder,0,inorder.length-1,mpp);
+
+        return root;
     }
+    public TreeNode buildingTree(int[] preorder,int prestart, int preend,int[] inorder,int instart,int inend,Map<Integer,Integer> mpp){
 
-    private TreeNode build(Deque<Integer> preorder, int[] inorder) {
-        if (inorder.length > 0) {
-            int idx = indexOf(inorder, preorder.poll());
-            TreeNode root = new TreeNode(inorder[idx]);
+        if(prestart>preend || instart>inend) return null;
+        TreeNode root=new TreeNode(preorder[prestart]);
 
-            root.left = build(preorder, Arrays.copyOfRange(inorder, 0, idx));
-            root.right = build(preorder, Arrays.copyOfRange(inorder, idx + 1, inorder.length));
+        int mp=mpp.get(root.val);
+        int lens=mp-instart;
 
-            return root;
-        }
-        return null;
+        root.left=buildingTree(preorder,prestart+1,prestart+lens,inorder,instart,mp-1,mpp);
+
+        root.right=buildingTree(preorder,prestart+lens+1,preend,inorder,mp+1,inend,mpp);
+
+        return root;
     }
-
-    private int indexOf(int[] arr, int value) {
-        for (int i = 0; i < arr.length; i++) {
-            if (arr[i] == value) {
-                return i;
-            }
-        }
-        return -1; 
-    }    
 }
