@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SugaliRishika/MySolutions/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/SugaliRishika/MySolutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/SugaliRishika/MySolutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/SugaliRishika/MySolutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/SugaliRishika/MySolutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SugaliRishika/MySolutions/tree/master/0070-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/SugaliRishika/MySolutions/tree/master/1014-k-closest-points-to-origin) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/SugaliRishika/MySolutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SugaliRishika/MySolutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SugaliRishika/MySolutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/SugaliRishika/MySolutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SugaliRishika/MySolutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/SugaliRishika/MySolutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SugaliRishika/MySolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -414,5 +416,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/SugaliRishika/MySolutions/tree/master/0062-unique-paths) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/SugaliRishika/MySolutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 <!---LeetCode Topics End-->
