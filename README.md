@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SugaliRishika/MySolutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SugaliRishika/MySolutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/SugaliRishika/MySolutions/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/SugaliRishika/MySolutions/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/SugaliRishika/MySolutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SugaliRishika/MySolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SugaliRishika/MySolutions/tree/master/0085-maximal-rectangle) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SugaliRishika/MySolutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SugaliRishika/MySolutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/SugaliRishika/MySolutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/SugaliRishika/MySolutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/SugaliRishika/MySolutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/SugaliRishika/MySolutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SugaliRishika/MySolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/SugaliRishika/MySolutions/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/SugaliRishika/MySolutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/SugaliRishika/MySolutions/tree/master/0200-number-of-islands) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SugaliRishika/MySolutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
