@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/SugaliRishika/MySolutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/SugaliRishika/MySolutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SugaliRishika/MySolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0120-triangle](https://github.com/SugaliRishika/MySolutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SugaliRishika/MySolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/SugaliRishika/MySolutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/SugaliRishika/MySolutions/tree/master/0135-candy) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/SugaliRishika/MySolutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/SugaliRishika/MySolutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/SugaliRishika/MySolutions/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/SugaliRishika/MySolutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SugaliRishika/MySolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/SugaliRishika/MySolutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SugaliRishika/MySolutions/tree/master/0213-house-robber-ii) |
