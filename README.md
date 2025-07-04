@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/SugaliRishika/MySolutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2478-longest-nice-subarray](https://github.com/SugaliRishika/MySolutions/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SugaliRishika/MySolutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SugaliRishika/MySolutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SugaliRishika/MySolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/SugaliRishika/MySolutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3321-type-of-triangle](https://github.com/SugaliRishika/MySolutions/tree/master/3321-type-of-triangle) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SugaliRishika/MySolutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/SugaliRishika/MySolutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Recursion
 |  |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/SugaliRishika/MySolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SugaliRishika/MySolutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/SugaliRishika/MySolutions/tree/master/0050-powx-n) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SugaliRishika/MySolutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
