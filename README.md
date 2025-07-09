@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SugaliRishika/MySolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/SugaliRishika/MySolutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SugaliRishika/MySolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0141-linked-list-cycle](https://github.com/SugaliRishika/MySolutions/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/SugaliRishika/MySolutions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SugaliRishika/MySolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SugaliRishika/MySolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SugaliRishika/MySolutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/SugaliRishika/MySolutions/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SugaliRishika/MySolutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0141-linked-list-cycle](https://github.com/SugaliRishika/MySolutions/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SugaliRishika/MySolutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SugaliRishika/MySolutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/SugaliRishika/MySolutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/SugaliRishika/MySolutions/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/SugaliRishika/MySolutions/tree/master/0141-linked-list-cycle) |
 | [0455-assign-cookies](https://github.com/SugaliRishika/MySolutions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SugaliRishika/MySolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/SugaliRishika/MySolutions/tree/master/0658-find-k-closest-elements) |
