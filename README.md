@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/SugaliRishika/MySolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/SugaliRishika/MySolutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/SugaliRishika/MySolutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/SugaliRishika/MySolutions/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SugaliRishika/MySolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SugaliRishika/MySolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SugaliRishika/MySolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -219,12 +220,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SugaliRishika/MySolutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/SugaliRishika/MySolutions/tree/master/0210-course-schedule-ii) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SugaliRishika/MySolutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SugaliRishika/MySolutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SugaliRishika/MySolutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/SugaliRishika/MySolutions/tree/master/0210-course-schedule-ii) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SugaliRishika/MySolutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Sorting
 |  |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/SugaliRishika/MySolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/SugaliRishika/MySolutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/SugaliRishika/MySolutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/SugaliRishika/MySolutions/tree/master/0210-course-schedule-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SugaliRishika/MySolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SugaliRishika/MySolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/SugaliRishika/MySolutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
