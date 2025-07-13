@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/SugaliRishika/MySolutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SugaliRishika/MySolutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/SugaliRishika/MySolutions/tree/master/2478-longest-nice-subarray) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/SugaliRishika/MySolutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2665-minimum-time-to-repair-cars](https://github.com/SugaliRishika/MySolutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SugaliRishika/MySolutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SugaliRishika/MySolutions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SugaliRishika/MySolutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SugaliRishika/MySolutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2331-intersection-of-multiple-arrays](https://github.com/SugaliRishika/MySolutions/tree/master/2331-intersection-of-multiple-arrays) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/SugaliRishika/MySolutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SugaliRishika/MySolutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/SugaliRishika/MySolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/SugaliRishika/MySolutions/tree/master/3321-type-of-triangle) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/SugaliRishika/MySolutions/tree/master/0658-find-k-closest-elements) |
 | [0868-push-dominoes](https://github.com/SugaliRishika/MySolutions/tree/master/0868-push-dominoes) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SugaliRishika/MySolutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/SugaliRishika/MySolutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SugaliRishika/MySolutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SugaliRishika/MySolutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SugaliRishika/MySolutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/SugaliRishika/MySolutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/SugaliRishika/MySolutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/SugaliRishika/MySolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Binary Search
