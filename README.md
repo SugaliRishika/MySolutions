@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SugaliRishika/MySolutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SugaliRishika/MySolutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3194-find-words-containing-character](https://github.com/SugaliRishika/MySolutions/tree/master/3194-find-words-containing-character) |
+| [3396-valid-word](https://github.com/SugaliRishika/MySolutions/tree/master/3396-valid-word) |
 ## Graph
 |  |
 | ------- |
