@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SugaliRishika/MySolutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SugaliRishika/MySolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SugaliRishika/MySolutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1813-maximum-erasure-value](https://github.com/SugaliRishika/MySolutions/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/SugaliRishika/MySolutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SugaliRishika/MySolutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SugaliRishika/MySolutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SugaliRishika/MySolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/SugaliRishika/MySolutions/tree/master/0658-find-k-closest-elements) |
+| [1813-maximum-erasure-value](https://github.com/SugaliRishika/MySolutions/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SugaliRishika/MySolutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/SugaliRishika/MySolutions/tree/master/2478-longest-nice-subarray) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SugaliRishika/MySolutions/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SugaliRishika/MySolutions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SugaliRishika/MySolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SugaliRishika/MySolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1813-maximum-erasure-value](https://github.com/SugaliRishika/MySolutions/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/SugaliRishika/MySolutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SugaliRishika/MySolutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SugaliRishika/MySolutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
