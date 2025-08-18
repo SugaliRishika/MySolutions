@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/SugaliRishika/MySolutions/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/SugaliRishika/MySolutions/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SugaliRishika/MySolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/SugaliRishika/MySolutions/tree/master/1073-number-of-enclaves) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/SugaliRishika/MySolutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/SugaliRishika/MySolutions/tree/master/0967-minimum-falling-path-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/SugaliRishika/MySolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SugaliRishika/MySolutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1073-number-of-enclaves](https://github.com/SugaliRishika/MySolutions/tree/master/1073-number-of-enclaves) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SugaliRishika/MySolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SugaliRishika/MySolutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1813-maximum-erasure-value](https://github.com/SugaliRishika/MySolutions/tree/master/1813-maximum-erasure-value) |
@@ -440,12 +442,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/SugaliRishika/MySolutions/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/SugaliRishika/MySolutions/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SugaliRishika/MySolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/SugaliRishika/MySolutions/tree/master/1073-number-of-enclaves) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/SugaliRishika/MySolutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/SugaliRishika/MySolutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SugaliRishika/MySolutions/tree/master/0200-number-of-islands) |
+| [1073-number-of-enclaves](https://github.com/SugaliRishika/MySolutions/tree/master/1073-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
@@ -457,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/SugaliRishika/MySolutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SugaliRishika/MySolutions/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/SugaliRishika/MySolutions/tree/master/0967-minimum-falling-path-sum) |
+| [1073-number-of-enclaves](https://github.com/SugaliRishika/MySolutions/tree/master/1073-number-of-enclaves) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SugaliRishika/MySolutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Binary Search Tree
 |  |
