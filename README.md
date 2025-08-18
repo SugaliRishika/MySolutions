@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SugaliRishika/MySolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/SugaliRishika/MySolutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SugaliRishika/MySolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/SugaliRishika/MySolutions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/SugaliRishika/MySolutions/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/SugaliRishika/MySolutions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SugaliRishika/MySolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SugaliRishika/MySolutions/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/SugaliRishika/MySolutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/SugaliRishika/MySolutions/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/SugaliRishika/MySolutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/SugaliRishika/MySolutions/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/SugaliRishika/MySolutions/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/SugaliRishika/MySolutions/tree/master/0678-valid-parenthesis-string) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/SugaliRishika/MySolutions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SugaliRishika/MySolutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SugaliRishika/MySolutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/SugaliRishika/MySolutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/SugaliRishika/MySolutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/SugaliRishika/MySolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/SugaliRishika/MySolutions/tree/master/0200-number-of-islands) |
