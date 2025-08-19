@@ -1,7 +1,6 @@
 class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
         ArrayList<ArrayList<Integer>> adj=new ArrayList<>();
-
         for(int i=0;i<numCourses;i++){
             adj.add(new ArrayList<>());
         }
@@ -18,16 +17,14 @@ class Solution {
         }
 
         Queue<Integer> q= new LinkedList<Integer>();
-
         for(int i=0;i<numCourses;i++){
             if(indegree[i]==0){
                 q.add(i);
             }
         }
-
+        
         int topo[]=new int[numCourses];
         int indx=0;
-
         while(!q.isEmpty()){
             int node=q.peek();
             q.remove();
@@ -38,6 +35,7 @@ class Solution {
                 if(indegree[it]==0) q.add(it);
             }
         }
+
         if(indx==numCourses) return topo;
         return new int[0];
     }
