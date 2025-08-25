@@ -13,55 +13,54 @@
  *     }
  * }
  */
+
+class Tuple{
+    TreeNode node;
+    int row;
+    int col;
+    public Tuple(TreeNode node,int row,int col){
+        this.node=node;
+        this.row=row;
+        this.col=col;
+    }
+}
 class Solution {
     public List<List<Integer>> verticalTraversal(TreeNode root) {
-        List<int[]> nodes = new ArrayList<>();
-        Queue<Tuple> queue = new LinkedList<>();
-        queue.offer(new Tuple(root, 0, 0));
+        TreeMap<Integer,TreeMap<Integer,PriorityQueue<Integer>>> map=new TreeMap<>();
+        Queue<Tuple> q=new LinkedList<Tuple>();
+        q.offer(new Tuple(root,0,0));
+        while(!q.isEmpty()){
+            Tuple tuple=q.poll();
+            TreeNode node=tuple.node;
+            int x=tuple.row;
+            int y=tuple.col;
 
-        while (!queue.isEmpty()) {
-            Tuple t = queue.poll();
-            TreeNode node = t.node;
-            int row = t.row, col = t.col;
-            nodes.add(new int[]{col, row, node.val});
-
-            if (node.left != null)
-                queue.offer(new Tuple(node.left, row + 1, col - 1));
-            if (node.right != null)
-                queue.offer(new Tuple(node.right, row + 1, col + 1));
-        }
-
-        Collections.sort(nodes, (a, b) -> {
-            if (a[0] != b[0]) return a[0] - b[0];    
-            if (a[1] != b[1]) return a[1] - b[1];     
-            return a[2] - b[2];                      
-        });
-
-        List<List<Integer>> result = new ArrayList<>();
-        int prevCol = Integer.MIN_VALUE;
-        List<Integer> colList = new ArrayList<>();
-
-        for (int[] triplet : nodes) {
-            int col = triplet[0], val = triplet[2];
-            if (col != prevCol) {
-                if (!colList.isEmpty()) result.add(colList);
-                colList = new ArrayList<>();
-                prevCol = col;
+            if(!map.containsKey(x)){
+                map.put(x,new TreeMap<>());
             }
-            colList.add(val);
+            if(!map.get(x).containsKey(y)){
+                map.get(x).put(y,new PriorityQueue<>());
+            }
+            map.get(x).get(y).offer(node.val);
+            if(node.left!=null){
+                q.offer(new Tuple(node.left,x-1,y+1));
+            }
+            if(node.right!=null){
+                q.offer(new Tuple(node.right,x+1,y+1));
+            }
         }
-        result.add(colList); 
-        return result;
-    }
 
-    class Tuple {
-        TreeNode node;
-        int row, col;
-        Tuple(TreeNode n, int r, int c) {
-            node = n;
-            row = r;
-            col = c;
+        List<List<Integer>> list=new ArrayList<>();
+        for(TreeMap<Integer,PriorityQueue<Integer>> ys:map.values()){
+            list.add(new ArrayList<>());
+            for(PriorityQueue<Integer> nodes:ys.values()){
+                while(!nodes.isEmpty()){
+                    System.out.println(nodes.peek());
+                    list.get(list.size()-1).add(nodes.poll());
+                }
+            }
         }
+        return list;
     }
     
 }
