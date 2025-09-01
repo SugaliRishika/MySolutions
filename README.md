@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SugaliRishika/MySolutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/SugaliRishika/MySolutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SugaliRishika/MySolutions/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SugaliRishika/MySolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/SugaliRishika/MySolutions/tree/master/0542-01-matrix) |
 | [0658-find-k-closest-elements](https://github.com/SugaliRishika/MySolutions/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/SugaliRishika/MySolutions/tree/master/0733-flood-fill) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/SugaliRishika/MySolutions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SugaliRishika/MySolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SugaliRishika/MySolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/SugaliRishika/MySolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/SugaliRishika/MySolutions/tree/master/0658-find-k-closest-elements) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SugaliRishika/MySolutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SugaliRishika/MySolutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
