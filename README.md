@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SugaliRishika/MySolutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/SugaliRishika/MySolutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SugaliRishika/MySolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SugaliRishika/MySolutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/SugaliRishika/MySolutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/SugaliRishika/MySolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SugaliRishika/MySolutions/tree/master/0435-non-overlapping-intervals) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SugaliRishika/MySolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SugaliRishika/MySolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SugaliRishika/MySolutions/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SugaliRishika/MySolutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/SugaliRishika/MySolutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SugaliRishika/MySolutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/SugaliRishika/MySolutions/tree/master/0658-find-k-closest-elements) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SugaliRishika/MySolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SugaliRishika/MySolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SugaliRishika/MySolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SugaliRishika/MySolutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/SugaliRishika/MySolutions/tree/master/1014-k-closest-points-to-origin) |
 ## Simulation
 |  |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/SugaliRishika/MySolutions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/SugaliRishika/MySolutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SugaliRishika/MySolutions/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SugaliRishika/MySolutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/SugaliRishika/MySolutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SugaliRishika/MySolutions/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/SugaliRishika/MySolutions/tree/master/0967-minimum-falling-path-sum) |
