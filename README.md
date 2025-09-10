@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/SugaliRishika/MySolutions/tree/master/0907-koko-eating-bananas) |
 | [0967-minimum-falling-path-sum](https://github.com/SugaliRishika/MySolutions/tree/master/0967-minimum-falling-path-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/SugaliRishika/MySolutions/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/SugaliRishika/MySolutions/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SugaliRishika/MySolutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1073-number-of-enclaves](https://github.com/SugaliRishika/MySolutions/tree/master/1073-number-of-enclaves) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/SugaliRishika/MySolutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/SugaliRishika/MySolutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/SugaliRishika/MySolutions/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SugaliRishika/MySolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/SugaliRishika/MySolutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/SugaliRishika/MySolutions/tree/master/1073-number-of-enclaves) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/SugaliRishika/MySolutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Union Find
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/SugaliRishika/MySolutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SugaliRishika/MySolutions/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/SugaliRishika/MySolutions/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/SugaliRishika/MySolutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/SugaliRishika/MySolutions/tree/master/1073-number-of-enclaves) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SugaliRishika/MySolutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Binary Search Tree
