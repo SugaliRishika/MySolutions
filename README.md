@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/SugaliRishika/MySolutions/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/SugaliRishika/MySolutions/tree/master/0678-valid-parenthesis-string) |
 | [0868-push-dominoes](https://github.com/SugaliRishika/MySolutions/tree/master/0868-push-dominoes) |
+| [1250-longest-common-subsequence](https://github.com/SugaliRishika/MySolutions/tree/master/1250-longest-common-subsequence) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/SugaliRishika/MySolutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SugaliRishika/MySolutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SugaliRishika/MySolutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/SugaliRishika/MySolutions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/SugaliRishika/MySolutions/tree/master/0868-push-dominoes) |
 | [0967-minimum-falling-path-sum](https://github.com/SugaliRishika/MySolutions/tree/master/0967-minimum-falling-path-sum) |
+| [1250-longest-common-subsequence](https://github.com/SugaliRishika/MySolutions/tree/master/1250-longest-common-subsequence) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SugaliRishika/MySolutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Monotonic Stack
 |  |
