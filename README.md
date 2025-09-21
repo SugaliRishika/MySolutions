@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SugaliRishika/MySolutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/SugaliRishika/MySolutions/tree/master/1646-kth-missing-positive-number) |
 | [1813-maximum-erasure-value](https://github.com/SugaliRishika/MySolutions/tree/master/1813-maximum-erasure-value) |
+| [2023-design-movie-rental-system](https://github.com/SugaliRishika/MySolutions/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/SugaliRishika/MySolutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SugaliRishika/MySolutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SugaliRishika/MySolutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SugaliRishika/MySolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SugaliRishika/MySolutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1813-maximum-erasure-value](https://github.com/SugaliRishika/MySolutions/tree/master/1813-maximum-erasure-value) |
+| [2023-design-movie-rental-system](https://github.com/SugaliRishika/MySolutions/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/SugaliRishika/MySolutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SugaliRishika/MySolutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SugaliRishika/MySolutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/SugaliRishika/MySolutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/SugaliRishika/MySolutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SugaliRishika/MySolutions/tree/master/0232-implement-queue-using-stacks) |
+| [2023-design-movie-rental-system](https://github.com/SugaliRishika/MySolutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/SugaliRishika/MySolutions/tree/master/2429-design-a-food-rating-system) |
 ## Linked List
 |  |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/SugaliRishika/MySolutions/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/SugaliRishika/MySolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/SugaliRishika/MySolutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2023-design-movie-rental-system](https://github.com/SugaliRishika/MySolutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/SugaliRishika/MySolutions/tree/master/2429-design-a-food-rating-system) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SugaliRishika/MySolutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
@@ -605,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/SugaliRishika/MySolutions/tree/master/2023-design-movie-rental-system) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SugaliRishika/MySolutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2429-design-a-food-rating-system](https://github.com/SugaliRishika/MySolutions/tree/master/2429-design-a-food-rating-system) |
 ## Bitmask
