@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SugaliRishika/MySolutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SugaliRishika/MySolutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SugaliRishika/MySolutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/SugaliRishika/MySolutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2331-intersection-of-multiple-arrays](https://github.com/SugaliRishika/MySolutions/tree/master/2331-intersection-of-multiple-arrays) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SugaliRishika/MySolutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2429-design-a-food-rating-system](https://github.com/SugaliRishika/MySolutions/tree/master/2429-design-a-food-rating-system) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/SugaliRishika/MySolutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SugaliRishika/MySolutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SugaliRishika/MySolutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/SugaliRishika/MySolutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2429-design-a-food-rating-system](https://github.com/SugaliRishika/MySolutions/tree/master/2429-design-a-food-rating-system) |
 | [3194-find-words-containing-character](https://github.com/SugaliRishika/MySolutions/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/SugaliRishika/MySolutions/tree/master/3396-valid-word) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SugaliRishika/MySolutions/tree/master/0070-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/SugaliRishika/MySolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SugaliRishika/MySolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/SugaliRishika/MySolutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/SugaliRishika/MySolutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3321-type-of-triangle](https://github.com/SugaliRishika/MySolutions/tree/master/3321-type-of-triangle) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/SugaliRishika/MySolutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/SugaliRishika/MySolutions/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/SugaliRishika/MySolutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/SugaliRishika/MySolutions/tree/master/1073-number-of-enclaves) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/SugaliRishika/MySolutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SugaliRishika/MySolutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Binary Search Tree
 |  |
