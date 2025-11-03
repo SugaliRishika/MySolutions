@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/SugaliRishika/MySolutions/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/SugaliRishika/MySolutions/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SugaliRishika/MySolutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SugaliRishika/MySolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/SugaliRishika/MySolutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SugaliRishika/MySolutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Bit Manipulation
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SugaliRishika/MySolutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SugaliRishika/MySolutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/SugaliRishika/MySolutions/tree/master/2915-count-of-interesting-subarrays) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SugaliRishika/MySolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SugaliRishika/MySolutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/SugaliRishika/MySolutions/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SugaliRishika/MySolutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SugaliRishika/MySolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
