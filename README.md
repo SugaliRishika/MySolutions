@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/SugaliRishika/MySolutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SugaliRishika/MySolutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/SugaliRishika/MySolutions/tree/master/0136-single-number) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SugaliRishika/MySolutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SugaliRishika/MySolutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/SugaliRishika/MySolutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2478-longest-nice-subarray](https://github.com/SugaliRishika/MySolutions/tree/master/2478-longest-nice-subarray) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/SugaliRishika/MySolutions/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/SugaliRishika/MySolutions/tree/master/1250-longest-common-subsequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SugaliRishika/MySolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SugaliRishika/MySolutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SugaliRishika/MySolutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Monotonic Stack
 |  |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/SugaliRishika/MySolutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/SugaliRishika/MySolutions/tree/master/0139-word-break) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SugaliRishika/MySolutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Combinatorics
 |  |
 | ------- |
