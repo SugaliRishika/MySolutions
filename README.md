@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SugaliRishika/MySolutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SugaliRishika/MySolutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SugaliRishika/MySolutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/SugaliRishika/MySolutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SugaliRishika/MySolutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Queue
 |  |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/SugaliRishika/MySolutions/tree/master/2429-design-a-food-rating-system) |
 | [3194-find-words-containing-character](https://github.com/SugaliRishika/MySolutions/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/SugaliRishika/MySolutions/tree/master/3396-valid-word) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/SugaliRishika/MySolutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Graph
 |  |
 | ------- |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SugaliRishika/MySolutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SugaliRishika/MySolutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/SugaliRishika/MySolutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Counting
 |  |
 | ------- |
