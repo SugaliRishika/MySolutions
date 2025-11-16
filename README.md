@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/SugaliRishika/MySolutions/tree/master/0868-push-dominoes) |
 | [1250-longest-common-subsequence](https://github.com/SugaliRishika/MySolutions/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SugaliRishika/MySolutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/SugaliRishika/MySolutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SugaliRishika/MySolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/SugaliRishika/MySolutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/SugaliRishika/MySolutions/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SugaliRishika/MySolutions/tree/master/0070-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/SugaliRishika/MySolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SugaliRishika/MySolutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/SugaliRishika/MySolutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SugaliRishika/MySolutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/SugaliRishika/MySolutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3321-type-of-triangle](https://github.com/SugaliRishika/MySolutions/tree/master/3321-type-of-triangle) |
