@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SugaliRishika/MySolutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SugaliRishika/MySolutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SugaliRishika/MySolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SugaliRishika/MySolutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SugaliRishika/MySolutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/SugaliRishika/MySolutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/SugaliRishika/MySolutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SugaliRishika/MySolutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SugaliRishika/MySolutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/SugaliRishika/MySolutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SugaliRishika/MySolutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SugaliRishika/MySolutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Queue
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/SugaliRishika/MySolutions/tree/master/0232-implement-queue-using-stacks) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SugaliRishika/MySolutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SugaliRishika/MySolutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SugaliRishika/MySolutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/SugaliRishika/MySolutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SugaliRishika/MySolutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SugaliRishika/MySolutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SugaliRishika/MySolutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -455,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SugaliRishika/MySolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SugaliRishika/MySolutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/SugaliRishika/MySolutions/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SugaliRishika/MySolutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -611,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/SugaliRishika/MySolutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SugaliRishika/MySolutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
