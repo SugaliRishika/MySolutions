@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/SugaliRishika/MySolutions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/SugaliRishika/MySolutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SugaliRishika/MySolutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/SugaliRishika/MySolutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/SugaliRishika/MySolutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SugaliRishika/MySolutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SugaliRishika/MySolutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/SugaliRishika/MySolutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Queue
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SugaliRishika/MySolutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SugaliRishika/MySolutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/SugaliRishika/MySolutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/SugaliRishika/MySolutions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Hash Table
 |  |
 | ------- |
