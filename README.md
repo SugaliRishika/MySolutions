@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/SugaliRishika/MySolutions/tree/master/0410-split-array-largest-sum) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/SugaliRishika/MySolutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SugaliRishika/MySolutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/SugaliRishika/MySolutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2915-count-of-interesting-subarrays](https://github.com/SugaliRishika/MySolutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SugaliRishika/MySolutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SugaliRishika/MySolutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SugaliRishika/MySolutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SugaliRishika/MySolutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2429-design-a-food-rating-system](https://github.com/SugaliRishika/MySolutions/tree/master/2429-design-a-food-rating-system) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/SugaliRishika/MySolutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3194-find-words-containing-character](https://github.com/SugaliRishika/MySolutions/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/SugaliRishika/MySolutions/tree/master/3396-valid-word) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/SugaliRishika/MySolutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
